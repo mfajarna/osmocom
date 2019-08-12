@@ -1,0 +1,2 @@
+
+osmo-trx-uhd -C osmo-trx-usrp_b200.cfg
