@@ -18,9 +18,6 @@ running system dengan menggunakan perintah
 
 ## Untuk Multisite jalankan perintah berikut
 
-
-## Untuk multi site jalankan perintah berikut
-
 Ganti konfigurai pada nitb dengan nitb.cfg
 running system dengan menggunakan perintah
 
